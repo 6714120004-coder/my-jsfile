@@ -2,11 +2,20 @@
   "name": "lab3",
   "version": "1.0.0",
   "description": "",
+<<<<<<< HEAD
   "main": "q9.js",
+=======
+  "main": "index.js",
+>>>>>>> 9701fe4012fe767328390bceef651efffda0e670
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
+<<<<<<< HEAD
   "license": "ISC"
+=======
+  "license": "ISC",
+  "type": "commonjs"
+>>>>>>> 9701fe4012fe767328390bceef651efffda0e670
 }
